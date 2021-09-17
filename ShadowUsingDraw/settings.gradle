@@ -1,0 +1,2 @@
+rootProject.name = "ShadowUsingDraw"
+include ':app'
